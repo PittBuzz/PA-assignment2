@@ -10,6 +10,7 @@ library(raster)
 library(ggmap) 
 library(leaflet)
 
+setwd("C:/Users/Jack's PC/Desktop")
 nam65 <- read.csv("thor_vietnam_65_clean.csv", stringsAsFactors = FALSE)
 ```
 ## creating the map
